@@ -1,0 +1,193 @@
+.left{
+    width: 25% !important;
+
+}
+.center{
+    width: 55% !important;
+}
+.right{
+    width: 20% !important;
+}
+.dropdown-toggle:hover{
+    text-decoration: none !important;
+    color: #195afe !important;
+}
+.fa-magnifying-glass:hover{
+    text-decoration: none !important;
+}
+.nayti{
+    border-radius: 25px;
+    background: rgb(255, 125, 18);
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+.xet{
+    background: #fff;
+    height: 0.5px;
+}
+.main{
+    background-image: url(/photos/mainpagebg.png);
+    background-size: cover;
+    height: 780px;
+}
+.foxnews{
+    top: 235px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 40px !important;
+}
+.msn{
+    top: 190px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 140px !important;
+}
+.cnn{
+    top: 145px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 250px !important;
+}
+.nytimes{
+    top: 90px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 355px !important;
+
+}
+.yahoo{
+    top: 35px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 470px !important;
+}
+.scalaaa{
+    transform: scale(1);
+    transition: 0.45s;
+    cursor: pointer;
+}
+.scalaaa:hover{
+    transform: scale(1.3);
+}
+.dropup{
+    top: 290px !important;
+    right: 6px !important;
+}
+.dropupp{
+    top: 290px !important;
+    right: 220px !important;
+}
+.custominpu{
+    padding: 10px !important;
+    border-radius: 6px;
+    border: none;
+    width: 59%;
+}
+.trial{
+    background: rgb(255, 125, 18);
+    width: 32%;
+    border-radius: 40px;
+    font-weight: 900;
+}
+.second{
+    background-image: url(/photos/58510c8779c459c94aa8\ \(1\).svg);
+    background-size: cover;
+    height: 760.59px;
+}
+.ten{
+    padding: 15px !important;
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    transform: scale(1);
+    transition: 0.45s;
+    cursor: pointer;
+    width: 18% !important;
+    background-color: #fff;
+    margin-right: 22px;
+}
+.ten:hover{
+    transform:  scale(1.04);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.nacaht{
+    border-radius: 20px !important;
+    border: none;
+    color: #fff;
+    background-color: #ff7a1a;
+    padding: 5px 15px;
+}
+.fourth{
+    background-image: url(/photos/fourth\ page.svg);
+    background-size: cover;
+    height: 540px;
+    display: flex;
+    align-items: center;
+}
+.aghdaire{
+    background-color: #fff !important;
+    padding: 8px !important;
+    border-radius: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.scaleee{
+    transform: scale(1);
+    transition: 0.45s;
+}
+.scaleee:hover{
+    transform: scale(1.1);
+}
+.card1{
+    z-index: 5;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card2{
+    z-index: 4;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card3{
+    z-index: 3;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card4{
+    z-index: 2;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card5{
+    z-index: 1;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card1:hover{ 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card2:hover{
+    z-index: 6 !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card3:hover{
+    z-index: 7;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card4:hover{
+    z-index: 8;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card5:hover{
+    z-index: 9;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.sixth{
+    background-image: url(/photos/sixth.svg);
+    height: 600px;
+    background-size: cover;
+    padding-top: 45px; 
+    padding-bottom: 45px;
+}
+.finalpage{
+    background: linear-gradient(180deg, #195AFE 0%, #2E62E4 50.85%, #2C54B8 98.64%);
+}
